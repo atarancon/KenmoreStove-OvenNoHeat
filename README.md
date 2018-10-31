@@ -2,12 +2,12 @@
 
 Problem : The Stove wasn't turning on the oven or Broiler
 
-Task : Get the Stove back to turning on the oven and broil 
+Task : Get the Stove back to turning on the Oven and Broiler
 
-Action: 1) Measured for  Continuity and resistance  in oven heater 
-        2) Measure for Continuity and resistance  in Boiler 
-        3) Measure the ohms in the temperature sensor
-        4) Inspect the Kenmore Control Board 
+Action: 1. Measured for  Continuity and resistance  in oven heater 
+        2. Measure for Continuity and resistance  in Broiler 
+        3. Measure the ohms in the temperature sensor
+        4. Inspect the Kenmore Control Board 
        
           # Oven heater 
           - Pass continuity test 
